@@ -11,7 +11,7 @@ Instead of just plotting graphs, the goal here was to answer practical questions
 
 ## 🔗 Live App
 
-https://your-app.streamlit.app
+(https://zomato-dashboard-ac5yby75yynmw3xmz7hvss.streamlit.app/)
 
 ---
 
